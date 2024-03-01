@@ -11,4 +11,6 @@
 - Part 5 - https://youtu.be/a4bLXbJ7gfE
 
 - Part 6 - https://youtu.be/5vMT1jSPD60
+  
+- Part 7 - https://youtu.be/I17zzy6480Q
 
