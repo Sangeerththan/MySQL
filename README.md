@@ -1,9 +1,14 @@
 இந்த YouTube பயிற்சி MySQL-ஐ பற்றியது, முதலாவது, `CREATE DATABASE demo;` என்று ஒரு தரவுத்தளம் உருவாக்கப்படுகிறது. அப்படியும், ஒரு "students" அட்டவணையை உருவாக்க, அதிகார விசேடங்களும், தரவு வகைகளும், முன்னுரிமை கொள்கைகளும் கொண்டிருக்கும். முக்கிய SQL வினாக்களை காட்டி, உத்தரவு செயற்கை செயல்பாடுகளும் காட்டப்படுகின்றன. இந்த பயிற்சி ஒரு தனிப்பட்ட அனுபவத்தை பெற விரும்பும் பயனாளர்களுக்கு உதவுகின்றது. நீங்கள் புதியவராக அல்லது உங்கள் MySQL திறனை மேம்படுத்த விரும்புகின்றீர்களா, இந்த தொகுப்பு உங்களுக்கு ஒரு வலிமையான அடிப்படையும் மேம்படுத்தும் வழியும் அமைந்துவிடுகின்றது.
 
-Part 1 - https://youtu.be/n5EQxjqzKAo
-Part 2 - https://youtu.be/TyLzfXEYJDc
-Part 3 - https://youtu.be/ah_LslEQi0g
-Part 4 - https://youtu.be/P0qO6eMcrA0
-Part 5 - https://youtu.be/a4bLXbJ7gfE
-Part 6 - https://youtu.be/5vMT1jSPD60
+- Part 1 - https://youtu.be/n5EQxjqzKAo
+
+- Part 2 - https://youtu.be/TyLzfXEYJDc
+
+- Part 3 - https://youtu.be/ah_LslEQi0g
+
+- Part 4 - https://youtu.be/P0qO6eMcrA0
+
+- Part 5 - https://youtu.be/a4bLXbJ7gfE
+
+- Part 6 - https://youtu.be/5vMT1jSPD60
 
